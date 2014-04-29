@@ -1,0 +1,3 @@
+* babys: ["baby","bass","babysit"]
+* backpeddle: []
+* backruptcy: ["bankruptcy"]
